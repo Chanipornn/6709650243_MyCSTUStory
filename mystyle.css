@@ -273,7 +273,7 @@ body {
 /*my journey*/
 
 header {
-    background-color: #fbd86a;
+    background-color: #FFADCF;
     padding: 20px;
     text-align: center;
     font-family: "Bai Jamjuree", sans-serif;
@@ -291,8 +291,9 @@ header p {
 }
 
 
+
 nav {
-    height: 70%;
+    height: 100vh;
     width: 20%;
     float: left;
     background-color: #5497e9;
@@ -438,7 +439,7 @@ main {
 
 
 footer {
-    background-color: #fbd86a;
+    background-color: #FFADCF;
     padding: 10px;
     text-align: center;
     clear: both;
@@ -447,4 +448,36 @@ footer {
 footer p {
     margin: 0;
 }
+
+
+/*My Future*/
+.header2 {
+    background-color: #98dfe5;
+    padding: 20px;
+    text-align: center;
+    font-family: "Bai Jamjuree", sans-serif;
+    border-radius: 10px;
+}
+
+.header2 h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+.header2 p {
+    font-size: 1.2em;
+    margin: 5px 0;
+}
+
+.footer2 {
+    background-color: #98dfe5;
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
+
+.footer2 p {
+    margin: 0;
+}
+
 
